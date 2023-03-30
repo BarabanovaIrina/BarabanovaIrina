@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, Everyone 👋
+
+My name is **Irina** and I'm a self-motivated software engineer with 3+ years of Python backend experience, specializing in R&D for real-world problem solving and a keen interest in solutions for a better future.
+
+📫 How to reach me: ira.v.barabanova@gmail.com or [LinkedIn](https://www.linkedin.com/in/irinabarabanova/)
 
 <!--
 **BarabanovaIrina/BarabanovaIrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
